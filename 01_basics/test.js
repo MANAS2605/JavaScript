@@ -1,1 +1,1 @@
-console.log("Manas sknlks")  
+console.log("Manas ")  
