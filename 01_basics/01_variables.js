@@ -1,7 +1,7 @@
 const accountId=144553
 let accountEmail="manas@gmail.com"
 var accountPassword="12345"//never use var (outdated) and has issues instead use let
-accountCity="Jaipur"//variable only but not recommended
+accountCity="Sagar"//variable only but not recommended
 let accountState;
 // accountId=2 //Not allowed
 
